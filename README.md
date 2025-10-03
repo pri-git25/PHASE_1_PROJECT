@@ -62,10 +62,5 @@ To reproduce this analysis:
 - seaborn
 - jupyter
 
-## Conclusion
-This analysis provides a data-driven foundation for safe entry into the aviation industry, identifying specific aircraft manufacturers and operational strategies that can deliver 40%+ better safety than industry averages.
-
 ## Contact
 [Priscilla Otieno] - [awinootienopriscilla@gmail.com]
-
-Project Link: [Your GitHub Repository URL]
