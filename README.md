@@ -42,7 +42,30 @@ This project analyzes 85,000+ aviation accidents from the NTSB database to ident
 
 3. **Positioning flights are significantly safer than personal flights**, suggesting our initial operations should prioritize commercial services
 
-**Interactive Dashboard**: [Insert Tableau Dashboard Link Here]
+**Interactive Dashboard**: [https://public.tableau.com/app/profile/priscilla.otieno/viz/learn-wb-2025-09-OP/Dashboard1?publish=yes]
 
 ---
 *Project completed for Phase 1 portfolio requirements*
+
+## Usage
+To reproduce this analysis:
+
+1. Clone the repository
+2. Install requirements: `pip install -r requirements.txt`
+3. Open `aviation_safety_analysis.ipynb` in Jupyter Notebook
+4. Run all cells to reproduce the analysis and visualizations
+
+## Requirements
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- jupyter
+
+## Conclusion
+This analysis provides a data-driven foundation for safe entry into the aviation industry, identifying specific aircraft manufacturers and operational strategies that can deliver 40%+ better safety than industry averages.
+
+## Contact
+[Priscilla Otieno] - [awinootienopriscilla@gmail.com]
+
+Project Link: [Your GitHub Repository URL]
